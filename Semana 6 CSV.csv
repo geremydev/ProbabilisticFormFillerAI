@@ -1,0 +1,20 @@
+﻿No Pregunta,Pregunta,Prob(1),Prob(2),Prob(3),Prob(4),Prob(5),Prob(6),Prob(7),Prob(8),Prob(9),Prob(10)
+1,1- Nombre del Estudiante,0,0,0,0,0,0,0,0,0,0
+2,2- Fecha de encuesta,0,0,0,1,0,0,0,0,0,0
+3,3- Carrera en Curso,0.3,0.25,0.25,0.08,0.08,0.04,0,0,0,0
+4,4- Carga academica,0,0.1,0.1,0.1,0.2,0.3,0.1,0.1,0,0
+5,5- Night Shift,0.3,0.7,0,0,0,0,0,0,0,0
+6,14- Estudiar antes de dormir,0.5,0.5,0,0,0,0,0,0,0,0
+7,17- Ocio antes de dormir,0.7,0.3,0,0,0,0,0,0,0,0
+8,18- Tiempo dedicado de lo de arriba,0.6,0.3,0.05,0.05,0,0,0,0,0,0
+9,6- Hora acostarse,0,0.5,0.2,0.2,0.1,0,0,0,0,0
+10,7- Hora levantarse,0.1,0.3,0.4,0.1,0.1,0,0,0,0,0
+11,8- Tiempo de sueño,0.1,0.2,0.2,0.3,0.1,0.1,0,0,0,0
+12,9- Calidad de sueño,0,0,0,0,0.1,0.2,0.2,0.3,0.1,0.1
+13,10- Ordenador academico semanal,0,0,0.1,0.15,0.2,0.3,0.25,0,0,0
+14,11- Ocio dispositivos semanal,0.1,0.1,0.2,0.2,0.2,0.1,0.1,0,0,0
+15,12- Extraordinario afectar sueño,0.3,0.7,0,0,0,0,0,0,0,0
+16,13- Especificar lo de arriba,0,0.1,0.5,0.1,0.1,0.2,0,0,0,0
+17,15- Dificultad para dormir,0,0,0,0,0,0,0,0,0,0
+18,16- Principal razon de lo de arriba,0.3,0.3,0,0.1,0.1,0,0.1,0.1,0,0
+19,21- Comentario adicional,0,0,0,0,0,0,0,0,0,0
